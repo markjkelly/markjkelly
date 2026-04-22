@@ -57,7 +57,7 @@ Value Selling · MEDPICC · Workshop Facilitation · Solution Architecture · Te
   <img src="https://github-readme-stats.vercel.app/api?username=markjkelly&show_icons=true&theme=default&hide_border=true&count_private=true&hide=stars&hide_rank=true" alt="Mark's GitHub stats" />
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markjkelly&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markjkelly&layout=compact&theme=default&hide_border=true&hide=Apex" alt="Top languages" />
 </td>
 </tr>
 </table>
