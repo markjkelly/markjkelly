@@ -1,4 +1,4 @@
-👋 Hi, I'm Mark Kelly
+Hi, I'm Mark 👋
 
 **From code to cloud to customer — closing the loop on what success looks like.**
 
