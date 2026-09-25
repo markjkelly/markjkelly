@@ -1,7 +1,3 @@
-Hi, I'm Mark 👋
-
-**From code to cloud to customer — closing the loop on what success looks like.**
-
 Outcome Customer Engineer at Google Cloud — focused on landing valuable workloads with our most strategic customers.
 
 I drive end-to-end deployment plans, clear technical blockers, and get customers to production value as quickly as possible.
